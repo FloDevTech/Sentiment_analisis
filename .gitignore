@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# Database
+*.db
+*.sqlite3
+market_sentiment.db
+
+# VS Code
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
